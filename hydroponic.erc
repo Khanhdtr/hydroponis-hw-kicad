@@ -1,0 +1,29 @@
+ERC report (12/26/2017 8:48:56 AM, Encoding UTF8 )
+
+***** Sheet /
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (74.93 mm,119.38 mm): Pin 1 (Power input) of component #PWR021 is not driven (Net 2).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (254.00 mm,53.34 mm): Pin 4 (Power input) of component U14 is not driven (Net 29).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (93.98 mm,184.15 mm): Pin 1 (Power input) of component #PWR02 is not driven (Net 31).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (88.90 mm,66.04 mm): Pin 3 (Input) of component U5 is not driven (Net 52).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (25.40 mm,80.01 mm): Pin 8 (Input) of component U2 is not driven (Net 53).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (49.53 mm,72.39 mm): Pin 30 (Input) of component U2 is not driven (Net 78).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (25.40 mm,102.87 mm): Pin 17 (Input) of component U2 is not driven (Net 88).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (49.53 mm,90.17 mm): Pin 23 (Input) of component U2 is not driven (Net 89).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (24.13 mm,30.48 mm): Pin 5 (Input) of component U1 is not driven (Net 90).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (24.13 mm,27.94 mm): Pin 4 (Input) of component U1 is not driven (Net 91).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (24.13 mm,25.40 mm): Pin 3 (Input) of component U1 is not driven (Net 92).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (49.53 mm,74.93 mm): Pin 29 (Input) of component U2 is not driven (Net 93).
+
+ ** ERC messages: 12  Errors 0  Warnings 12
